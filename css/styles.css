@@ -1,0 +1,10 @@
+p.intro{
+  color: blue;
+}
+h2.intro{
+  color: orange;
+}
+img.intro{
+  padding: 3em;
+  border-style: double;
+}
